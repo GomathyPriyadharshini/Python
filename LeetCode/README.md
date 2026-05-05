@@ -139,7 +139,7 @@ Each day focuses on a specific topic pattern commonly asked in coding interviews
 | Day 2  | Done   |
 | Day 3  | Done   |
 | Day 4  | Done   |
-| Day 5  | ⬜      |
+| Day 5  | Done   |
 | Day 6  | ⬜      |
 | Day 7  | ⬜      |
 | Day 8  | ⬜      |
